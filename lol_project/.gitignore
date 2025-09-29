@@ -1,0 +1,16 @@
+# API 키와 같은 비밀 정보
+.env
+
+# 파이썬 가상환경 폴더
+.venv/
+venv/
+
+# 파이썬 캐시 파일
+__pycache__/
+*.pyc
+
+# 주피터 노트북 체크포인트 폴더
+.ipynb_checkpoints/
+
+# Mac OS 시스템 파일
+.DS_Store
